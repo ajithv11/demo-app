@@ -1,0 +1,23 @@
+{
+  "name": "demo-app",
+  "version": "1.0.0",
+  "description": "This is a test app for Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "This is a test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajithv11/demo-app"
+  },
+  "keywords": [
+    "Hello",
+    "worls"
+  ],
+  "author": "Ajith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajithv11/demo-app/issues"
+  },
+  "homepage": "https://github.com/ajithv11/demo-app"
+}
